@@ -37,7 +37,7 @@ const Footer = () => {
               <img 
                 src={assetarchLogo} 
                 alt="AssetArch" 
-                className="h-10 w-auto brightness-0 invert"
+                className="h-12 w-auto"
               />
             </div>
             <p className="text-sm text-primary-foreground/80 leading-relaxed">
